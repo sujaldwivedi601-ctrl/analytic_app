@@ -1,0 +1,5 @@
+{
+  "name": "RGPV Academic Predictor",
+  "description": "Predict high-probability questions for RGPV Diploma Computer Science exams using Gemini AI.",
+  "requestFramePermissions": []
+}
